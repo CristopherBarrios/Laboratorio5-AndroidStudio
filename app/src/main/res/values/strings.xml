@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab5-CristopherBarrios</string>
+    <string name="mas">+</string>
+    <string name="menos">-</string>
+    <string name="cajas">Cajas de Cheetos</string>
+    <string name="cero">0</string>
+    <string name="papas">Papalinas</string>
+    <string name="gas">Gaseosas</string>
+</resources>
